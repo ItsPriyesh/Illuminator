@@ -1,2 +1,0 @@
-# Illuminator
-Illuminati detection software
